@@ -5,13 +5,16 @@ A flowchart is a visual representation of a process or algorithm that shows the 
 [Flowchart Symbols](https://drive.google.com/file/d/1B62yypJmnVFTCwjVcQgAuojh9skLT2ws/view?usp=share_link "a title")
 ## Examples
 Let’s think about Foundation task, and include a flowchart example for it: 
+
 The task instructions are as follows: 
+
 Write a function that draws a straight line in the terminal. 
-•	Prototype: `void print_line(int n);` 
-•	You can only use `_putchar` function to print 
-•	Where n is the number of times the character `_` should be printed 
-•	The line should end with a `\n` 
-•	If n is 0 or less, the function should only print `\n` 
+- Prototype: `void print_line(int n);` 
+- You can only use `_putchar` function to print 
+- Where n is the number of times the character `_` should be printed 
+- The line should end with a `\n` 
+- If n is 0 or less, the function should only print `\n` 
+
 Okay. Below is what I came up with. 
 1.	Set a variable equal n (int `nCopy`) 
 2.	Set up a while loop (condition: `nCopy` is greater than 0) 
