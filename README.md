@@ -18,6 +18,7 @@ Okay. Below is what I came up with.
 3.	Print - 
 4.	Decrease `nCopy` by 1 
 5.	Print `\n` 
+
 Now, using the ISO 5807 symbols from the table above, draw out a flowchart for this function.
 
 [image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/8/fb82e24f7282c569aed3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230429T125340Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e736bbe4530c1c9ed52aee9ed174e7e28c38570b2bc4e78ecb0ffa5735f2b9ef)
